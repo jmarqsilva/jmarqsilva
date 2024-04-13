@@ -3,6 +3,7 @@
 Hi, my name is Josemar, a passionate in data analytics and data Science.My passion for data lies in obtaining important information through varied data and thus achieving goals.
 
 languages and tools:
+![PostGreSQL](https://github.com/jmarqsilva/jmarqsilva/assets/40063315/632a908f-74a3-44b6-9abd-b136e0187a61)
 
 
          
