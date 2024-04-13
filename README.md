@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi, my name is Josemar, a passionate in data analytics and data Science.My passion for data lies in obtaining important information through varied data and thus achieving goals.
+
+languages and tools:
+
+         
+
 <!--
 **jmarqsilva/jmarqsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
