@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-Hi, my name is Josemar, a passionate in data analytics and data Science.My passion for data lies in obtaining important information through varied data and thus achieving goals.
+Olá. Meu nome é Josemar e sou apaixonado em 
 
 languages and tools:
+
+![image](https://github.com/jmarqsilva/jmarqsilva/assets/40063315/9d5b096b-272d-41b3-8cf8-2db4bfa11b95)
+
 
          
 
