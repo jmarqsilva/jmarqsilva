@@ -2,6 +2,12 @@
 
 Hi, my name is Josemar, a passionate in data analytics and data Science.My passion for data lies in obtaining important information through varied data and thus achieving goals.
 
+
+![image](https://github.com/jmarqsilva/jmarqsilva/assets/40063315/a214e3cc-cbff-4ac0-b94f-81e24cb9c5bd)
+
+![image](https://github.com/jmarqsilva/jmarqsilva/assets/40063315/cac75058-e17d-4e32-bff5-2ef1d1bb5861)
+
+
 languages and tools:
 
          
