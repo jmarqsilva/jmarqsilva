@@ -5,6 +5,10 @@ My name is Josemar and I'm passionate about data analysis and data science. This
 ### 💻 Technologies & Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="pg-Python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+  <img align="center" alt="pg-Python" height="30" width="30" src="https://github.com/jmarqsilva/jmarqsilva/assets/40063315/e6b164b9-b044-4af0-a445-ff86b3cbb81b">
+  <img align="center" alt="pg-Python" height="30" width="30" src="https://github.com/jmarqsilva/jmarqsilva/assets/40063315/9372babf-1756-4182-94d4-0f0de024a4ea">
+
+
 </div>
 
 <a href="https://github.com/jmarqsilva"><br>
@@ -12,17 +16,11 @@ My name is Josemar and I'm passionate about data analysis and data science. This
 <!--  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jmarqsilva&layout=compact&langs_count=8&theme=tokyonight"/>-->
 <div>
 
-##
 
-## Redes Sociais
+## 🎯 Let's Keep in Touch and Follow mes
 <div>  
          <a href="https://www.linkedin.com/in/josemar-marques-da-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
-
-
-         
 
 <!--
 **jmarqsilva/jmarqsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
