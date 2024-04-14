@@ -1,8 +1,8 @@
-### Ola! 👋
+### Hi There! 👋
 
-Meu nome é Josemar e sou apaixonado por análise de dados e ciência de dados. Essa paixão floresceu quando percebi que a vasta quantidade de dados disponíveis em diversos servidores ao redor do mundo representa um recurso de valor inestimável, capaz de transformar estrategicamente indivíduos, empresas e até mesmo países.
 
-### Minhas Linguagens e Ferramentas
+My name is Josemar and I'm passionate about data analysis and data science. This passion arose when I began to understand that the vast amount of data available on various servers around the world has become something of immense value, capable of strategically changing the course for individuals, companies, or even entire countries.
+### 💻 Technologies & Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="pg-Python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
 </div>
