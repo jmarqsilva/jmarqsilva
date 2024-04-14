@@ -1,18 +1,22 @@
-### Hi there 👋
+### Ola! 👋
 
-Olá. Meu nome é Josemar e sou apaixonado em análise de dados e ciências de dados. Essa paixão surgiu quando comecei a entender que a grande quantidade de dados disponíveis em vários servidores do mundo se tornou em algo de muito valor e que pode mudar a forma estratégica de uma pessoa, empresa ou país. 
+Meu nome é Josemar e sou apaixonado por análise de dados e ciência de dados. Essa paixão floresceu quando percebi que a vasta quantidade de dados disponíveis em diversos servidores ao redor do mundo representa um recurso de valor inestimável, capaz de transformar estrategicamente indivíduos, empresas e até mesmo países.
 
-<a href="https://github.com/jmarqsilva">
+### Minhas Linguagens e Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="pg-Python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+</div>
+
+<a href="https://github.com/jmarqsilva"><br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jmarqsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jmarqsilva&layout=compact&langs_count=8&theme=tokyonight"/>
+<!--  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jmarqsilva&layout=compact&langs_count=8&theme=tokyonight"/>-->
 <div>
 
-Minhas linguagens:
+##
 
-
-Minhas redes sociais:
+## Redes Sociais
 <div>  
-         <a href = "www.linkedin.com/in/josemar-marques-da-silva" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+         <a href="https://www.linkedin.com/in/josemar-marques-da-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
