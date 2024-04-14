@@ -7,8 +7,7 @@ My name is Josemar and I'm passionate about data analysis and data science. This
   <img align="center" alt="pg-Python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
   <img align="center" alt="pg-Python" height="30" width="30" src="https://github.com/jmarqsilva/jmarqsilva/assets/40063315/e6b164b9-b044-4af0-a445-ff86b3cbb81b">
   <img align="center" alt="pg-Python" height="30" width="30" src="https://github.com/jmarqsilva/jmarqsilva/assets/40063315/9372babf-1756-4182-94d4-0f0de024a4ea">
-
-
+   <img align="center" alt="pg-Python" height="30" width="30" src="https://github.com/jmarqsilva/jmarqsilva/assets/40063315/39df13bc-06c4-4d3a-a434-4d31eca7a2c6">
 </div>
 
 <a href="https://github.com/jmarqsilva"><br>
