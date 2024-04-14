@@ -3,8 +3,12 @@
 Olá. Meu nome é Josemar e sou apaixonado em 
 
 languages and tools:
+<div>  
+<a hrerf = "www.linkedin.com/in/josemar-marques-da-silva" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-![image](https://github.com/jmarqsilva/jmarqsilva/assets/40063315/9d5b096b-272d-41b3-8cf8-2db4bfa11b95)
+</div>
+
+
 
 
          
