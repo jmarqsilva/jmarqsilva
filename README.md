@@ -1,7 +1,6 @@
 ### Hi There! 👋
 
-
-My name is Josemar and I'm passionate about data analysis and data science. This passion arose when I began to understand that the vast amount of data available on various servers around the world has become something of immense value, capable of strategically changing the course for individuals, companies, or even entire countries.
+Meu nome é Josemar e sou apaixonado por análise de dados e ciência de dados. Essa paixão surgiu quando comecei a entender que a vasta quantidade de dados disponível em vários servidores ao redor do mundo se tornou algo de imenso valor, capaz de mudar estrategicamente o rumo de indivíduos, empresas ou até mesmo países inteiros.
 ### 💻 Technologies & Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="pg-Python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
@@ -20,7 +19,7 @@ My name is Josemar and I'm passionate about data analysis and data science. This
 <div>
 
 
-## 🎯 Let's Keep in Touch and Follow mes
+## 🎯 Me siga no Linkedin
 <div>  
          <a href="https://www.linkedin.com/in/josemar-marques-da-silva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
